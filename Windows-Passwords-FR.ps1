@@ -12,4 +12,4 @@ netsh wlan show profile | Select-String '(?<=Profil Tous les utilisateurs\s+:\s)
 }
 
 # Clear the PowerShell command history
-Clear-History
+#Clear-History
